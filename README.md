@@ -54,6 +54,7 @@ This project is divided into three main parts:
    PSQL="psql --username=freecodecamp --dbname=periodic_table --tuples-only -c"
 
 ### Notes
+
 1. If you leave your virtual machine, your database may not be saved. Use the following command to create a dump of your database:
    ```bash
    pg_dump -cC --inserts -U freecodecamp periodic_table > periodic_table.sql
@@ -62,13 +63,16 @@ This project is divided into three main parts:
    psql -U postgres < periodic_table.sql
 
 ### License
+
 - This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### Acknowledgments
+
 - Thanks to freeCodeCamp for providing the project framework and instructions.
 - Special thanks to all contributors and reviewers who help improve this project.
 
 ### Submission
+
  After completing all tasks and passing the tests, save a dump of your database and the final version of your element.sh script 
  in a public repository. Submit the URL to your repository on freeCodeCamp.org.
  Good luck and happy coding!
