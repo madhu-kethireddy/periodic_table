@@ -71,6 +71,7 @@ This project is divided into three main parts:
 
  After completing all tasks and passing the tests, save a dump of your database and the final version of your element.sh script 
  in a public repository. Submit the URL to your repository on freeCodeCamp.org.
+ 
  Good luck and happy coding!
  ```md
  Feel free to customize this `README.md` file to better fit your project's specifics and any additional details you want to
