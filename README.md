@@ -1,7 +1,3 @@
-# 💻 Project: Querying data based on user request.
-
-![periodic table banner (4)](https://user-images.githubusercontent.com/88495091/209232470-e7d902b6-0ceb-407e-b3ba-7f3042655162.png)
-
 # Periodic Table Database
 
 Welcome to the Periodic Table Database project! This project involves managing a database of chemical elements and creating a script to query information about these elements.
